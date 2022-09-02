@@ -1,2 +1,2 @@
-# Hotel-Management-System
-UI design for HMS
+# The Summer
+UI design for Hotel Management System
